@@ -1,5 +1,5 @@
 ---
 title: Welcome to my blog
-author: @yuuki1967
+author: yuuki1967
 description: This is a test page.
 ---
